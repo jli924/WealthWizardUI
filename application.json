@@ -18,6 +18,11 @@
     },
     {
       "id": "Budgets",
+      "id": "emily_transactions",
+      "isDefault": false
+    },
+    {
+      "id": "robert_investments",
       "isDefault": false
     }
   ],
