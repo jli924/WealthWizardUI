@@ -11,6 +11,10 @@
     {
       "id": "WealthWizards HomePage",
       "isDefault": false
+    },
+    {
+      "id": "Goals",
+      "isDefault": false
     }
   ],
   "viewMode": false,
