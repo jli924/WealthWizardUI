@@ -23,6 +23,10 @@
     {
       "id": "robert_investments",
       "isDefault": false
+    },
+    {
+      "id": "Budgets",
+      "isDefault": false
     }
   ],
   "viewMode": false,
