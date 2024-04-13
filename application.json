@@ -27,6 +27,10 @@
     {
       "id": "Profile",
       "isDefault": false
+    },
+    {
+      "id": "Budgets",
+      "isDefault": false
     }
   ],
   "viewMode": false,
