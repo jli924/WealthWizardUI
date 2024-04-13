@@ -2,7 +2,7 @@
     "needsErrorInfo": false,
     "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
     "mobileBottomRow": 48,
-    "widgetName": "Container1",
+    "widgetName": "budgets_container",
     "borderColor": "#E0DEDE",
     "isCanvas": true,
     "displayName": "Container",

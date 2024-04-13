@@ -3,7 +3,7 @@
     "needsErrorInfo": false,
     "boxShadow": "none",
     "mobileBottomRow": 15,
-    "widgetName": "Button1CopyCopy",
+    "widgetName": "goal_button",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
     "displayName": "Button",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.cb7371e9a48acf9db0f2f3ea0a714255.svg",
