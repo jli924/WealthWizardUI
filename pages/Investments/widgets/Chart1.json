@@ -12,7 +12,7 @@
         "visuals",
         "visualisations"
     ],
-    "bottomRow": 92,
+    "bottomRow": 97,
     "parentRowSpace": 10,
     "type": "CHART_WIDGET",
     "hideCard": false,
@@ -117,6 +117,6 @@
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 0,
     "xAxisName": "Years",
-    "originalBottomRow": 92,
+    "originalBottomRow": 97,
     "chartType": "LINE_CHART"
 }
