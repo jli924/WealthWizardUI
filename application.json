@@ -1,16 +1,8 @@
 {
   "pages": [
     {
-      "id": "WealthWizard App",
-      "isDefault": true
-    },
-    {
-      "id": "WealthWizard Web Page",
-      "isDefault": false
-    },
-    {
       "id": "WealthWizards HomePage",
-      "isDefault": false
+      "isDefault": true
     },
     {
       "id": "Goals",
