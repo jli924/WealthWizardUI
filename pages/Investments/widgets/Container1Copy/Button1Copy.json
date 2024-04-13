@@ -3,7 +3,7 @@
     "needsErrorInfo": false,
     "boxShadow": "none",
     "mobileBottomRow": 35,
-    "widgetName": "Button1",
+    "widgetName": "Button1Copy",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
     "displayName": "Button",
     "iconSVG": "/static/media/icon.05d209fafeb13a8569e3b4e97069d9ee.svg",
@@ -20,7 +20,7 @@
     "animateLoading": true,
     "parentColumnSpace": 17.9375,
     "dynamicTriggerPathList": [],
-    "leftColumn": 48,
+    "leftColumn": 51,
     "dynamicBindingPathList": [
         {"key": "buttonColor"},
         {"key": "borderRadius"}
@@ -31,7 +31,7 @@
     "isDeprecated": false,
     "rightColumn": 63,
     "isDefaultClickDisabled": true,
-    "widgetId": "ig2ruj8nfo",
+    "widgetId": "llz2w0rnv4",
     "minWidth": 120,
     "isVisible": true,
     "recaptchaType": "V3",

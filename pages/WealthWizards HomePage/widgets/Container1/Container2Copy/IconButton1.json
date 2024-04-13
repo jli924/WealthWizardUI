@@ -19,7 +19,7 @@
     "animateLoading": true,
     "parentColumnSpace": 3.267578125,
     "dynamicTriggerPathList": [],
-    "leftColumn": 41,
+    "leftColumn": 43,
     "dynamicBindingPathList": [
         {"key": "buttonColor"},
         {"key": "borderRadius"}
@@ -27,7 +27,7 @@
     "isDisabled": false,
     "key": "zogth3o7j1",
     "isDeprecated": false,
-    "rightColumn": 59,
+    "rightColumn": 61,
     "thumbnailSVG": "https://appcdn.appsmith.com/static/media/thumbnail.b02b764a52db45d332efa723178a50a4.svg",
     "iconName": "dollar",
     "widgetId": "r36jdaz7od",
