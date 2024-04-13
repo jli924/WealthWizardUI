@@ -11,7 +11,7 @@
         "submit"
     ],
     "topRow": 10,
-    "bottomRow": 14,
+    "bottomRow": 17,
     "parentRowSpace": 10,
     "type": "BUTTON_GROUP_WIDGET",
     "groupButtons": {
@@ -103,7 +103,7 @@
     "animateLoading": true,
     "parentColumnSpace": 17.9375,
     "dynamicTriggerPathList": [],
-    "leftColumn": 18,
+    "leftColumn": 32,
     "dynamicBindingPathList": [
         {"key": "borderRadius"},
         {"key": "groupButtons.groupButton1.buttonColor"},
@@ -128,6 +128,6 @@
     "originalTopRow": 10,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 18,
-    "originalBottomRow": 14,
+    "originalBottomRow": 17,
     "buttonVariant": "PRIMARY"
 }

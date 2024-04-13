@@ -6,13 +6,13 @@
     "allowScroll": false,
     "iconSVG": "/static/media/icon.8eea39845729f7f4bfadeecd3810a09d.svg",
     "displayName": "Chart",
-    "topRow": 52,
+    "topRow": 60,
     "searchTags": [
         "graph",
         "visuals",
         "visualisations"
     ],
-    "bottomRow": 84,
+    "bottomRow": 92,
     "parentRowSpace": 10,
     "type": "CHART_WIDGET",
     "hideCard": false,
@@ -112,11 +112,11 @@
     "mobileTopRow": 57,
     "responsiveBehavior": "fill",
     "yAxisName": "Amount ($)",
-    "originalTopRow": 52,
+    "originalTopRow": 60,
     "chartName": "Investment Report",
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 0,
     "xAxisName": "Years",
-    "originalBottomRow": 84,
+    "originalBottomRow": 92,
     "chartType": "LINE_CHART"
 }

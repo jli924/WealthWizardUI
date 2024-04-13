@@ -37,6 +37,7 @@
   "appIsExample": false,
   "unreadCommentThreads": 0,
   "color": "#ECECEC",
+  "icon": "bag",
   "unpublishedAppLayout": {
     "type": "DESKTOP"
   },

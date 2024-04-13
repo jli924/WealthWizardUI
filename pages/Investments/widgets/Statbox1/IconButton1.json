@@ -10,14 +10,14 @@
         "click",
         "submit"
     ],
-    "topRow": 4,
-    "bottomRow": 9,
+    "topRow": 2,
+    "bottomRow": 10,
     "type": "ICON_BUTTON_WIDGET",
     "hideCard": false,
     "mobileRightColumn": 62,
     "animateLoading": true,
     "dynamicTriggerPathList": [],
-    "leftColumn": 52,
+    "leftColumn": 43,
     "dynamicBindingPathList": [
         {"key": "buttonColor"},
         {"key": "borderRadius"}
