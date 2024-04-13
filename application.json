@@ -17,11 +17,15 @@
       "isDefault": false
     },
     {
-      "id": "emily_transactions",
+      "id": "Transactions",
       "isDefault": false
     },
     {
-      "id": "robert_investments",
+      "id": "Investments",
+      "isDefault": false
+    },
+    {
+      "id": "Profile",
       "isDefault": false
     }
   ],

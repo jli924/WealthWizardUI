@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "emily_transactions",
-    "slug": "emily-transactions",
+    "name": "Transactions",
+    "slug": "transactions",
     "layouts": [
       {
         "viewMode": false,
@@ -28,7 +28,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "emily_transactions",
+        "id": "Transactions",
         "deleted": false,
         "policies": [],
         "userPermissions": []

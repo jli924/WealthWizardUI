@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "robert_investments",
-    "slug": "robert-investments",
+    "name": "Investments",
+    "slug": "investments",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 520,
+          "bottomRow": 840,
           "containerStyle": "none",
           "snapRows": 65,
           "parentRowSpace": 1,
@@ -28,7 +28,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "robert_investments",
+        "id": "Investments",
         "deleted": false,
         "policies": [],
         "userPermissions": []
