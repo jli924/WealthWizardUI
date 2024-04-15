@@ -9,8 +9,8 @@
         "paragraph",
         "label"
     ],
-    "topRow": 2,
-    "bottomRow": 7,
+    "topRow": 12,
+    "bottomRow": 17,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -20,7 +20,7 @@
     "fontFamily": "Nunito Sans",
     "parentColumnSpace": 17.9375,
     "dynamicTriggerPathList": [],
-    "leftColumn": 0,
+    "leftColumn": 34,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "borderRadius"}
@@ -30,17 +30,17 @@
     "text": "Completed Goals",
     "key": "oiytaqnfsu",
     "isDeprecated": false,
-    "rightColumn": 63,
+    "rightColumn": 64,
     "thumbnailSVG": "https://appcdn.appsmith.com/static/media/thumbnail.0c129b82c9b3e4cd4920563b289659ab.svg",
     "textAlign": "CENTER",
     "dynamicHeight": "AUTO_HEIGHT",
-    "widgetId": "kz1dfqhb8w",
+    "widgetId": "tb0o5ta5ki",
     "minWidth": 450,
     "isVisible": true,
     "fontStyle": "BOLD",
     "textColor": "#3f3f46",
     "version": 1,
-    "parentId": "2hkjy9sj3i",
+    "parentId": "0",
     "tags": [
         "Suggested",
         "Content"
@@ -49,11 +49,11 @@
     "isLoading": false,
     "mobileTopRow": 15,
     "responsiveBehavior": "fill",
-    "originalTopRow": 2,
+    "originalTopRow": 12,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 0,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 7,
+    "originalBottomRow": 17,
     "fontSize": "1.875rem",
     "minDynamicHeight": 4
 }
