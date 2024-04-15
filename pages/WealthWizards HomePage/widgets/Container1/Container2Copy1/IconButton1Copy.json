@@ -3,6 +3,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 6,
     "widgetName": "IconButton1Copy",
+    "onClick": "{{navigateTo('Bills', {}, 'SAME_WINDOW');}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
     "displayName": "Icon button",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.bb5d55ae67fb1687dff78e66ad1faec0.svg",
@@ -18,8 +19,8 @@
     "mobileRightColumn": 57,
     "animateLoading": true,
     "parentColumnSpace": 3.267578125,
-    "dynamicTriggerPathList": [],
-    "leftColumn": 41,
+    "dynamicTriggerPathList": [{"key": "onClick"}],
+    "leftColumn": 40,
     "dynamicBindingPathList": [
         {"key": "buttonColor"},
         {"key": "borderRadius"}
@@ -27,7 +28,7 @@
     "isDisabled": false,
     "key": "zogth3o7j1",
     "isDeprecated": false,
-    "rightColumn": 59,
+    "rightColumn": 60,
     "thumbnailSVG": "https://appcdn.appsmith.com/static/media/thumbnail.b02b764a52db45d332efa723178a50a4.svg",
     "iconName": "credit-card",
     "widgetId": "f76tbikjsf",

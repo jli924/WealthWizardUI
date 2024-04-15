@@ -40,6 +40,6 @@
     "responsiveBehavior": "fill",
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 11,
-    "progress": "75",
+    "progress": "",
     "counterClockwise": false
 }
