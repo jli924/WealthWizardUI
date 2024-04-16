@@ -30,7 +30,7 @@
         "Layout"
     ],
     "isLoading": false,
-    "submitButtonLabel": "Confirm",
+    "submitButtonLabel": "Post",
     "childStylesheet": {
         "CHECKBOX": {
             "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
@@ -126,7 +126,7 @@
     "bottomRow": 39,
     "fieldLimitExceeded": false,
     "parentRowSpace": 10,
-    "title": "Edit information",
+    "title": "Post an article",
     "hideCard": false,
     "mobileRightColumn": 35,
     "parentColumnSpace": 6.9375,
