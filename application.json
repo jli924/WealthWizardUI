@@ -27,6 +27,10 @@
     {
       "id": "Bills",
       "isDefault": false
+    },
+    {
+      "id": "Articles",
+      "isDefault": false
     }
   ],
   "viewMode": false,
