@@ -31,6 +31,10 @@
     {
       "id": "Articles",
       "isDefault": false
+    },
+    {
+      "id": "About us",
+      "isDefault": false
     }
   ],
   "viewMode": false,
