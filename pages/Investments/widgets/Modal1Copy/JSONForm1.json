@@ -30,7 +30,7 @@
         "Layout"
     ],
     "isLoading": false,
-    "submitButtonLabel": "Add investment",
+    "submitButtonLabel": "Add",
     "childStylesheet": {
         "CHECKBOX": {
             "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",

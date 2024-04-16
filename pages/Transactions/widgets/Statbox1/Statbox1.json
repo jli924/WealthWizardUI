@@ -9,7 +9,7 @@
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.457e4e1b6b350401fe7e9adf74ba03ae.svg",
     "searchTags": ["statbox"],
     "topRow": 11,
-    "bottomRow": 32,
+    "bottomRow": 25,
     "parentRowSpace": 10,
     "type": "STATBOX_WIDGET",
     "hideCard": false,
@@ -29,7 +29,7 @@
         "widgetName": "Canvas3",
         "displayName": "Canvas",
         "topRow": 0,
-        "bottomRow": 210,
+        "bottomRow": 140,
         "parentRowSpace": 1,
         "type": "CANVAS_WIDGET",
         "canExtend": false,
@@ -84,6 +84,6 @@
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 0,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 32,
+    "originalBottomRow": 25,
     "minDynamicHeight": 14
 }

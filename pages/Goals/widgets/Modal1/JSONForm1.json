@@ -30,7 +30,7 @@
         "Layout"
     ],
     "isLoading": false,
-    "submitButtonLabel": "Add goal",
+    "submitButtonLabel": "Add",
     "childStylesheet": {
         "CHECKBOX": {
             "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
