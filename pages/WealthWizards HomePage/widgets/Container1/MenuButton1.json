@@ -51,7 +51,7 @@
             "isDisabled": false
         },
         "menuItem2": {
-            "onClick": "{{navigateTo('Articles', {}, 'SAME_WINDOW');\nstoreValue('User_id', \"\");}}",
+            "onClick": "{{navigateTo('Articles', {}, 'SAME_WINDOW');\nstoreValue('User_id', '64');}}",
             "widgetId": "",
             "index": 1,
             "label": "Read articles",
