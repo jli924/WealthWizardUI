@@ -4,7 +4,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 35,
     "widgetName": "Button1Copy",
-    "onClick": "{{showModal('Modal1Copy');}}",
+    "onClick": "{{showModal('Modal1Copy');\nnew_investment.run().then(() => {\n  get_investments_robert.run();\n});}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
     "displayName": "Button",
     "iconSVG": "/static/media/icon.05d209fafeb13a8569e3b4e97069d9ee.svg",
