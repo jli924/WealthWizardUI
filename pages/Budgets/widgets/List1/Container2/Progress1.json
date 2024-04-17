@@ -20,7 +20,8 @@
     "leftColumn": 56,
     "dynamicBindingPathList": [
         {"key": "fillColor"},
-        {"key": "borderRadius"}
+        {"key": "borderRadius"},
+        {"key": "progress"}
     ],
     "key": "lcy98fwimm",
     "showResult": true,
@@ -41,5 +42,5 @@
     "responsiveBehavior": "fill",
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 30,
-    "progress": "58"
+    "progress": "{{Math.floor(currentItem.Remaining / currentItem.MaxAmount * 100)}}"
 }

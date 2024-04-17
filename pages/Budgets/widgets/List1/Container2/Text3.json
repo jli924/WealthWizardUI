@@ -22,12 +22,13 @@
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
-        {"key": "borderRadius"}
+        {"key": "borderRadius"},
+        {"key": "text"}
     ],
     "leftColumn": 7,
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "$6000",
+    "text": "${{currentItem.MaxAmount}}",
     "key": "7ox4hafooe",
     "isDeprecated": false,
     "rightColumn": 15,
