@@ -41,6 +41,6 @@
     "responsiveBehavior": "fill",
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 11,
-    "progress": "{{0}}",
+    "progress": "{{Math.floor(get_budgets_sally.data.map(row => row.Remaining)[0] / get_budgets_sally.data.map(row => row.MaxAmount)[0])}}",
     "counterClockwise": false
 }
