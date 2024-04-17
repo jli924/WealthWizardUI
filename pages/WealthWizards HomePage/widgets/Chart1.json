@@ -5,20 +5,7 @@
     "topRow": 58,
     "type": "CHART_WIDGET",
     "chartData": {"vmsgrrzi1x": {
-        "data": [
-            {
-                "x": "Product1",
-                "y": 20000
-            },
-            {
-                "x": "Product2",
-                "y": 22000
-            },
-            {
-                "x": "Product3",
-                "y": 32000
-            }
-        ],
+        "data": "[\n  {\n    \"x\": \"Succulents\",\n    \"y\": 701.95\n  },\n  {\n    \"x\": \"Pots\",\n    \"y\": 23.00\n  },\n  {\n    \"x\": \"Spider Repellent\",\n    \"y\": 10.00\n  }\n]",
         "seriesName": "2024"
     }},
     "animateLoading": true,
