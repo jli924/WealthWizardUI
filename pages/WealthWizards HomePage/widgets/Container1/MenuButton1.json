@@ -36,7 +36,7 @@
             "onClick": "{{navigateTo('Profile', {}, 'SAME_WINDOW');\nstoreValue('User_id', '63');}}",
             "widgetId": "",
             "index": 0,
-            "label": "Edit your profile",
+            "label": "Profile",
             "id": "menuItem1",
             "isVisible": true,
             "isDisabled": false
@@ -54,7 +54,7 @@
             "onClick": "{{navigateTo('Articles', {}, 'SAME_WINDOW');\nstoreValue('User_id', '64');}}",
             "widgetId": "",
             "index": 1,
-            "label": "Read articles",
+            "label": "Articles",
             "id": "menuItem2",
             "isVisible": true,
             "isDisabled": false
