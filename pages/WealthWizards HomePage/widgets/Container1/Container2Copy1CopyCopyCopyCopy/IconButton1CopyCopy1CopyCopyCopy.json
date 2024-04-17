@@ -3,7 +3,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 6,
     "widgetName": "IconButton1CopyCopy1CopyCopyCopy",
-    "onClick": "{{navigateTo('Articles', {}, 'SAME_WINDOW');\nstoreValue('User_id', '64');}}",
+    "onClick": "{{navigateTo('About us', {}, 'SAME_WINDOW');}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
     "displayName": "Icon button",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.bb5d55ae67fb1687dff78e66ad1faec0.svg",

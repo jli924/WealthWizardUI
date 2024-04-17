@@ -41,7 +41,7 @@
     "chartName": "Spending by Category",
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "xAxisName": "Product Line",
-    "originalBottomRow": 99,
+    "originalBottomRow": 94,
     "needsErrorInfo": true,
     "mobileBottomRow": 132,
     "widgetName": "Chart1",
@@ -117,7 +117,7 @@
     "mobileTopRow": 100,
     "responsiveBehavior": "fill",
     "yAxisName": "Revenue($)",
-    "originalTopRow": 63,
+    "originalTopRow": 58,
     "mobileLeftColumn": 19,
     "chartType": "PIE_CHART"
 }

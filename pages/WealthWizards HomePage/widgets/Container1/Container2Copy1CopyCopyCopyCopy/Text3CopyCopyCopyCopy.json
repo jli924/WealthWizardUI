@@ -29,7 +29,7 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "Learn about articles",
+    "text": "Learn about creators",
     "key": "8rm8re64gi",
     "isDeprecated": false,
     "rightColumn": 39,
