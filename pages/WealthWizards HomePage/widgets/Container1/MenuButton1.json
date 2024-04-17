@@ -33,7 +33,7 @@
     "widgetId": "tg2vpybd0d",
     "menuItems": {
         "menuItem1": {
-            "onClick": "{{navigateTo('Profile', {}, 'SAME_WINDOW');\nstoreValue('User_id', \"\");}}",
+            "onClick": "{{navigateTo('Profile', {}, 'SAME_WINDOW');\nstoreValue('User_id', '63');}}",
             "widgetId": "",
             "index": 0,
             "label": "Edit your profile",
@@ -51,7 +51,7 @@
             "isDisabled": false
         },
         "menuItem2": {
-            "onClick": "{{navigateTo('Articles', {}, 'SAME_WINDOW');\nstoreValue('User_id', \"\");}}",
+            "onClick": "{{navigateTo('Articles', {}, 'SAME_WINDOW');\nstoreValue('User_id', '64');}}",
             "widgetId": "",
             "index": 1,
             "label": "Read articles",
