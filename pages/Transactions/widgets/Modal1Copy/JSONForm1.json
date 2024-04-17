@@ -184,7 +184,7 @@
                 "children": {},
                 "isSpellCheck": false,
                 "iconAlign": "left",
-                "position": 4,
+                "position": 1,
                 "isDisabled": false,
                 "sourceData": "Succulents",
                 "fieldType": "Text Input"
@@ -197,7 +197,7 @@
                 "isCustomField": false,
                 "defaultValue": "",
                 "accentColor": "{{((sourceData, formData, fieldState) => ((appsmith.theme.colors.primaryColor)))(JSONForm1.sourceData, JSONForm1.formData, JSONForm1.fieldState)}}",
-                "dataType": "number",
+                "dataType": "string",
                 "accessor": "Amount",
                 "isVisible": true,
                 "label": "Amount",
@@ -206,10 +206,10 @@
                 "children": {},
                 "isSpellCheck": false,
                 "iconAlign": "left",
-                "position": 1,
+                "position": 2,
                 "isDisabled": false,
-                "sourceData": 701.95,
-                "fieldType": "Number Input"
+                "sourceData": "$701.95",
+                "fieldType": "Text Input"
             },
             "Goal_id": {
                 "labelTextSize": "0.875rem",
@@ -244,13 +244,13 @@
                 "dataType": "number",
                 "accessor": "Category",
                 "isVisible": true,
-                "label": "Category Id",
+                "label": "Category",
                 "serverSideFiltering": false,
                 "originalIdentifier": "Category_id",
                 "borderRadius": "0px",
                 "children": {},
                 "options": "[\n  {\n    \"label\": \"Blue\",\n    \"value\": \"BLUE\"\n  },\n  {\n    \"label\": \"Green\",\n    \"value\": \"GREEN\"\n  },\n  {\n    \"label\": \"Red\",\n    \"value\": \"RED\"\n  }\n]",
-                "position": 2,
+                "position": 3,
                 "isDisabled": false,
                 "sourceData": 7,
                 "fieldType": "Select"
@@ -272,7 +272,7 @@
                 "children": {},
                 "isSpellCheck": false,
                 "iconAlign": "left",
-                "position": 3,
+                "position": 4,
                 "isDisabled": false,
                 "sourceData": "Sun, 31 Mar 2024 15:00:00 GMT",
                 "fieldType": "Text Input"

@@ -96,7 +96,7 @@
     "hideCard": false,
     "mobileRightColumn": 26,
     "mainContainerId": "ncpoksl1l4",
-    "primaryKeys": "{{List1.listData.map((currentItem, currentIndex) => currentItem[\"id\"] )}}",
+    "primaryKeys": "{{List1.listData.map((currentItem, currentIndex) => currentItem[\"Article_id\"] )}}",
     "parentColumnSpace": 17.9375,
     "dynamicTriggerPathList": [],
     "gridType": "vertical",
