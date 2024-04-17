@@ -42,5 +42,5 @@
     "responsiveBehavior": "fill",
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 31,
-    "progress": "{{Math.floor((get_goals_sally_61.data.map(row => row.SavedSoFar) / get_goals_sally_61.data.map(row => row.TotalFund)) * 100)}}"
+    "progress": "{{Math.floor(currentItem.SavedSoFar / currentItem.TotalFund * 100)}}"
 }
