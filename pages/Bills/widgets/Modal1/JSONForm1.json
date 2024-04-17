@@ -2,7 +2,7 @@
     "boxShadow": "none",
     "borderColor": "white",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.7df6f087cceba86a9a5481b6c7f4871d.svg",
-    "onSubmit": "{{new_bill_brian.run()}}",
+    "onSubmit": "{{new_bill_brian.run().then(() => {\n  get_bills_brian.run();\n});}}",
     "topRow": 0,
     "type": "JSON_FORM_WIDGET",
     "animateLoading": true,
@@ -35,7 +35,7 @@
     "showReset": true,
     "flexVerticalAlignment": "start",
     "dynamicHeight": "AUTO_HEIGHT",
-    "autoGenerateForm": true,
+    "autoGenerateForm": false,
     "resetButtonStyles": {
         "boxShadow": "none",
         "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",

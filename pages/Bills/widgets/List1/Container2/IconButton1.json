@@ -30,7 +30,7 @@
     "isDeprecated": false,
     "rightColumn": 13,
     "thumbnailSVG": "https://appcdn.appsmith.com/static/media/thumbnail.b02b764a52db45d332efa723178a50a4.svg",
-    "iconName": "trash",
+    "iconName": "tick-circle",
     "dynamicHeight": "FIXED",
     "widgetId": "s71dvjkfk1",
     "minWidth": 50,
