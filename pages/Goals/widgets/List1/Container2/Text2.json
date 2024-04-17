@@ -28,7 +28,7 @@
     "leftColumn": 11,
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "{{get_goals_sally_61.data.map(row => row.Name).toString()}}",
+    "text": "{{currentItem.Name}}",
     "key": "oiytaqnfsu",
     "isDeprecated": false,
     "rightColumn": 34,
