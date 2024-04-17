@@ -28,11 +28,13 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Budgets_get_budgets_robert",
-              "name": "get_budgets_robert",
+              "id": "Budgets_get_budgets_accountID",
+              "name": "get_budgets_accountID",
               "confirmBeforeExecute": false,
               "pluginType": "API",
-              "jsonPathKeys": [],
+              "jsonPathKeys": [
+                "appsmith.store.Account_id"
+              ],
               "timeoutInMillisecond": 10000
             }
           ]

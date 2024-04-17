@@ -2,7 +2,7 @@
   "pluginType": "API",
   "pluginId": "restapi-plugin",
   "unpublishedAction": {
-    "name": "get_articles_emily",
+    "name": "get_articles_userID",
     "datasource": {
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
@@ -16,7 +16,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Articles",
+    "pageId": "WealthWizards HomePage",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -38,7 +38,7 @@
         "apiContentType": "none"
       }
     },
-    "executeOnLoad": true,
+    "executeOnLoad": false,
     "dynamicBindingPathList": [],
     "isValid": true,
     "invalids": [],
@@ -48,9 +48,9 @@
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": [],
-    "createdAt": "2024-04-17T03:51:21Z"
+    "createdAt": "2024-04-17T03:12:16Z"
   },
-  "id": "Articles_get_articles_emily",
+  "id": "WealthWizards HomePage_get_articles_userID",
   "deleted": false,
-  "gitSyncId": "661f316185fa621fcf36ec09_661f473985fa621fcf36ec50"
+  "gitSyncId": "661f316185fa621fcf36ec09_661f3e1085fa621fcf36ec45"
 }

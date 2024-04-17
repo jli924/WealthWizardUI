@@ -42,7 +42,7 @@
     "parentColumnSpace": 17.9375,
     "dynamicTriggerPathList": [],
     "labelPosition": "Top",
-    "sourceData": "{{get_accounts.data}}",
+    "sourceData": "{{get_accounts_accountID.data}}",
     "key": "55f7w1vlq0",
     "labelTextSize": "0.875rem",
     "isDeprecated": false,

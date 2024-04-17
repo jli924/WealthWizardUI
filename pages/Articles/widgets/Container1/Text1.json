@@ -29,7 +29,7 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "Title: {{get_articles_emily.data.map(row => row.Title).toString()}}",
+    "text": "Title: {{get_articles_userID.data.map(row => row.Title).toString()}}",
     "key": "ali73n73vf",
     "isDeprecated": false,
     "rightColumn": 31,

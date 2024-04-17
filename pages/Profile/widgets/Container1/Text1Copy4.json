@@ -29,7 +29,7 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "{{get_accounts.data.map(row => row.AccountType).toString()}}: {{get_accounts.data.map(row => row.Balance).toString()}}",
+    "text": "{{get_accounts_accountID.data.map(row => row.AccountType).toString()}}: {{get_accounts_accountID.data.map(row => row.Balance).toString()}}",
     "key": "ali73n73vf",
     "isDeprecated": false,
     "rightColumn": 46,

@@ -42,7 +42,7 @@
     "parentColumnSpace": 17.9375,
     "dynamicTriggerPathList": [],
     "labelPosition": "Top",
-    "sourceData": "{{get_transactions_sally.data}}",
+    "sourceData": "{{get_transactions_accountID.data}}",
     "key": "d1umzt8gvq",
     "labelTextSize": "0.875rem",
     "isDeprecated": false,

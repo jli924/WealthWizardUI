@@ -28,11 +28,13 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Profile_get_accounts",
-              "name": "get_accounts",
+              "id": "Profile_get_accounts_accountID",
+              "name": "get_accounts_accountID",
               "confirmBeforeExecute": false,
               "pluginType": "API",
-              "jsonPathKeys": [],
+              "jsonPathKeys": [
+                "appsmith.store.User_id"
+              ],
               "timeoutInMillisecond": 10000
             }
           ],
@@ -42,7 +44,9 @@
               "name": "get_users",
               "confirmBeforeExecute": false,
               "pluginType": "API",
-              "jsonPathKeys": [],
+              "jsonPathKeys": [
+                "appsmith.store.Account_id"
+              ],
               "timeoutInMillisecond": 10000
             }
           ]

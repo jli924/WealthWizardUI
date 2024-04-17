@@ -11,7 +11,8 @@
     "dynamicBindingPathList": [
         {"key": "accentColor"},
         {"key": "borderRadius"},
-        {"key": "boxShadow"}
+        {"key": "boxShadow"},
+        {"key": "tableData"}
     ],
     "needsHeightForContent": true,
     "leftColumn": 0,
@@ -61,7 +62,7 @@
     "widgetName": "Table1",
     "defaultPageSize": 0,
     "columnOrder": [],
-    "dynamicPropertyPathList": [],
+    "dynamicPropertyPathList": [{"key": "tableData"}],
     "displayName": "Table",
     "bottomRow": 60,
     "columnWidthMap": {},
@@ -79,7 +80,7 @@
     "textSize": "0.875rem",
     "widgetId": "455icfttxt",
     "minWidth": 450,
-    "tableData": "",
+    "tableData": "{{get_investments_accountID.data}}",
     "label": "Data",
     "searchKey": "",
     "parentId": "0",

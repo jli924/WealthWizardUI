@@ -28,21 +28,13 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Articles_get_articles_emily",
-              "name": "get_articles_emily",
+              "id": "Articles_get_articles_userID",
+              "name": "get_articles_userID",
               "confirmBeforeExecute": false,
               "pluginType": "API",
-              "jsonPathKeys": [],
-              "timeoutInMillisecond": 10000
-            }
-          ],
-          [
-            {
-              "id": "Articles_get_articles_emily_2",
-              "name": "get_articles_emily_2",
-              "confirmBeforeExecute": false,
-              "pluginType": "API",
-              "jsonPathKeys": [],
+              "jsonPathKeys": [
+                "appsmith.store.User_id"
+              ],
               "timeoutInMillisecond": 10000
             }
           ]

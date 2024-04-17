@@ -9,8 +9,8 @@
         "paragraph",
         "label"
     ],
-    "topRow": 1,
-    "bottomRow": 8,
+    "topRow": 8,
+    "bottomRow": 15,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -20,7 +20,7 @@
     "fontFamily": "Nunito Sans",
     "parentColumnSpace": 17.625,
     "dynamicTriggerPathList": [],
-    "leftColumn": 0,
+    "leftColumn": 2,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "borderRadius"},
@@ -31,7 +31,7 @@
     "text": "Welcome",
     "key": "znu2x1v6qh",
     "isDeprecated": false,
-    "rightColumn": 13,
+    "rightColumn": 15,
     "thumbnailSVG": "https://appcdn.appsmith.com/static/media/thumbnail.0c129b82c9b3e4cd4920563b289659ab.svg",
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
@@ -50,11 +50,11 @@
     "isLoading": false,
     "mobileTopRow": 0,
     "responsiveBehavior": "fill",
-    "originalTopRow": 1,
+    "originalTopRow": 8,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 0,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 8,
+    "originalBottomRow": 15,
     "fontSize": "3rem",
     "minDynamicHeight": 4
 }

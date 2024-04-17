@@ -22,7 +22,7 @@
     "animateLoading": true,
     "parentColumnSpace": 17.625,
     "dynamicTriggerPathList": [],
-    "leftColumn": 12,
+    "leftColumn": 37,
     "dynamicBindingPathList": [
         {"key": "borderRadius"},
         {"key": "boxShadow"}
@@ -73,7 +73,7 @@
     "key": "hglzzr62x0",
     "backgroundColor": "#3b3d7d",
     "isDeprecated": false,
-    "rightColumn": 25,
+    "rightColumn": 49,
     "thumbnailSVG": "https://appcdn.appsmith.com/static/media/thumbnail.6cb355b93146b5347bbb048a568ed446.svg",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "fl64dqkm9y",
