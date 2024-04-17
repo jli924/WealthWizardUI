@@ -28,6 +28,14 @@
         "layoutOnLoadActions": [
           [
             {
+              "id": "WealthWizards HomePage_get_accounts_sally",
+              "name": "get_accounts_sally",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            },
+            {
               "id": "WealthWizards HomePage_get_bills_sally",
               "name": "get_bills_sally",
               "confirmBeforeExecute": false,
