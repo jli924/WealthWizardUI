@@ -9,8 +9,8 @@
         "paragraph",
         "label"
     ],
-    "topRow": 12,
-    "bottomRow": 16,
+    "topRow": 14,
+    "bottomRow": 18,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -29,7 +29,7 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "Phone: {{get_users.data.map(row => row.Phone).toString()}}",
+    "text": "Phone: {{get_accounts_accountID.data.length > 0 ? get_accounts_accountID.data[0].Phone : ''}}",
     "key": "ali73n73vf",
     "isDeprecated": false,
     "rightColumn": 53,
@@ -51,11 +51,11 @@
     "isLoading": false,
     "mobileTopRow": 0,
     "responsiveBehavior": "fill",
-    "originalTopRow": 15,
+    "originalTopRow": 12,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 0,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 19,
+    "originalBottomRow": 16,
     "fontSize": "1rem",
     "minDynamicHeight": 4
 }

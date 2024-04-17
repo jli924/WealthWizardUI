@@ -29,7 +29,7 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "Name: {{get_users.data.map(row => row.FirstName).toString()}} {{get_users.data.map(row => row.MiddleName).toString()}} {{get_users.data.map(row => row.LastName).toString()}}",
+    "text": "Name: {{get_accounts_accountID.data.length > 0 ? get_accounts_accountID.data[0].FirstName : ''}} {{get_accounts_accountID.data.length > 0 ? get_accounts_accountID.data[0].MiddleName : ''}} {{get_accounts_accountID.data.length > 0 ? get_accounts_accountID.data[0].LastName : ''}}",
     "key": "ali73n73vf",
     "isDeprecated": false,
     "rightColumn": 42,
