@@ -32,7 +32,7 @@
     "text": "View your transactions",
     "key": "8rm8re64gi",
     "isDeprecated": false,
-    "rightColumn": 40,
+    "rightColumn": 39,
     "thumbnailSVG": "https://appcdn.appsmith.com/static/media/thumbnail.0c129b82c9b3e4cd4920563b289659ab.svg",
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
