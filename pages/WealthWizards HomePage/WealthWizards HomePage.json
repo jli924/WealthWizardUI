@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 940,
+          "bottomRow": 1040,
           "containerStyle": "none",
           "snapRows": 59,
           "parentRowSpace": 1,
@@ -28,14 +28,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "WealthWizards HomePage_get_accounts_sally",
-              "name": "get_accounts_sally",
-              "confirmBeforeExecute": false,
-              "pluginType": "API",
-              "jsonPathKeys": [],
-              "timeoutInMillisecond": 10000
-            },
-            {
               "id": "WealthWizards HomePage_get_bills_sally",
               "name": "get_bills_sally",
               "confirmBeforeExecute": false,
@@ -44,16 +36,26 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "WealthWizards HomePage_get_budgets_sally",
-              "name": "get_budgets_sally",
+              "id": "WealthWizards HomePage_get_goals_sally",
+              "name": "get_goals_sally",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            }
+          ],
+          [
+            {
+              "id": "WealthWizards HomePage_get_accounts_sally",
+              "name": "get_accounts_sally",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "WealthWizards HomePage_get_goals_sally",
-              "name": "get_goals_sally",
+              "id": "WealthWizards HomePage_get_budgets_sally",
+              "name": "get_budgets_sally",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [],
