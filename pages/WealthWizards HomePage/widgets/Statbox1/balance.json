@@ -1,7 +1,7 @@
 {
     "needsErrorInfo": false,
     "mobileBottomRow": 8,
-    "widgetName": "Text4Copy1",
+    "widgetName": "balance",
     "displayName": "Text",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.a55b701a2ae86aa2c6718ecb7b4083f0.svg",
     "searchTags": [
@@ -22,15 +22,17 @@
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
-        {"key": "borderRadius"}
+        {"key": "borderRadius"},
+        {"key": "text"}
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "$",
+    "text": "${{get_accounts_sally.data.map(row => row.Balance).toString()}}",
     "key": "znu2x1v6qh",
     "isDeprecated": false,
     "rightColumn": 37,
     "thumbnailSVG": "https://appcdn.appsmith.com/static/media/thumbnail.0c129b82c9b3e4cd4920563b289659ab.svg",
+    "disableLink": false,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "ph7dera2sg",
@@ -48,11 +50,11 @@
     "isLoading": false,
     "mobileTopRow": 4,
     "responsiveBehavior": "fill",
-    "originalTopRow": 5,
+    "originalTopRow": 4,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 1,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 9,
+    "originalBottomRow": 8,
     "fontSize": "1.25rem",
     "minDynamicHeight": 4
 }

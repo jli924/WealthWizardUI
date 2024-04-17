@@ -2,12 +2,12 @@
   "pluginType": "API",
   "pluginId": "restapi-plugin",
   "unpublishedAction": {
-    "name": "get_users",
+    "name": "get_bills_sally",
     "datasource": {
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
       "datasourceConfiguration": {
-        "url": "web:4000/u/users/62"
+        "url": "web:4000/bi/bills/61"
       },
       "invalids": [],
       "messages": [],
@@ -38,7 +38,7 @@
         "apiContentType": "none"
       }
     },
-    "executeOnLoad": false,
+    "executeOnLoad": true,
     "dynamicBindingPathList": [],
     "isValid": true,
     "invalids": [],
@@ -48,9 +48,9 @@
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": [],
-    "createdAt": "2024-04-16T20:23:41Z"
+    "createdAt": "2024-04-17T01:29:57Z"
   },
-  "id": "WealthWizards HomePage_get_users",
+  "id": "WealthWizards HomePage_get_bills_sally",
   "deleted": false,
-  "gitSyncId": "661eddfa1f3ed209c78c1934_661ede4d1f3ed209c78c1944"
+  "gitSyncId": "661ee10662d1e520260375b3_661f261541202321b78d6fd2"
 }

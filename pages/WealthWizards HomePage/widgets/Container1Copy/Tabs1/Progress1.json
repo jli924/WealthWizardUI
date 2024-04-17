@@ -20,7 +20,8 @@
     "leftColumn": 46,
     "dynamicBindingPathList": [
         {"key": "fillColor"},
-        {"key": "borderRadius"}
+        {"key": "borderRadius"},
+        {"key": "progress"}
     ],
     "key": "44fp3ophcj",
     "showResult": true,
@@ -40,6 +41,6 @@
     "responsiveBehavior": "fill",
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 11,
-    "progress": "",
+    "progress": "{{0}}",
     "counterClockwise": false
 }
