@@ -134,7 +134,7 @@
     "parentColumnSpace": 6.9375,
     "dynamicTriggerPathList": [{"key": "onSubmit"}],
     "borderWidth": "1",
-    "sourceData": "{{get_goals.data}}",
+    "sourceData": "{{get_goals_accountid.data}}",
     "resetButtonLabel": "Reset",
     "key": "2fa83nzkhz",
     "backgroundColor": "#fff",
