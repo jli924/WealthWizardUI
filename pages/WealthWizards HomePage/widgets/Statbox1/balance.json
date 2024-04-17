@@ -22,12 +22,11 @@
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
-        {"key": "borderRadius"},
-        {"key": "text"}
+        {"key": "borderRadius"}
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "${{get_accounts_sally.data.map(row => row.Balance).toString()}}",
+    "text": "$",
     "key": "znu2x1v6qh",
     "isDeprecated": false,
     "rightColumn": 37,
