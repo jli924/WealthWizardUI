@@ -7,7 +7,7 @@
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
       "datasourceConfiguration": {
-        "url": "web:4000/ac/accounts/63"
+        "url": ""
       },
       "invalids": [],
       "messages": [],
@@ -45,7 +45,11 @@
       }
     },
     "executeOnLoad": false,
-    "dynamicBindingPathList": [],
+    "dynamicBindingPathList": [
+      {
+        "key": "path"
+      }
+    ],
     "isValid": true,
     "invalids": [],
     "messages": [],
