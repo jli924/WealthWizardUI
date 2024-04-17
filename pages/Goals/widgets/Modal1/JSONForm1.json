@@ -11,7 +11,8 @@
         {"key": "submitButtonStyles.buttonColor"},
         {"key": "submitButtonStyles.borderRadius"},
         {"key": "resetButtonStyles.buttonColor"},
-        {"key": "resetButtonStyles.borderRadius"}
+        {"key": "resetButtonStyles.borderRadius"},
+        {"key": "sourceData"}
     ],
     "showReset": true,
     "flexVerticalAlignment": "start",
@@ -122,6 +123,7 @@
         "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
         "buttonVariant": "PRIMARY"
     },
+    "dynamicPropertyPathList": [{"key": "sourceData"}],
     "displayName": "JSON Form",
     "bottomRow": 39,
     "fieldLimitExceeded": false,
@@ -132,7 +134,7 @@
     "parentColumnSpace": 6.9375,
     "dynamicTriggerPathList": [{"key": "onSubmit"}],
     "borderWidth": "1",
-    "sourceData": "",
+    "sourceData": "{{get_goals.data}}",
     "resetButtonLabel": "Reset",
     "key": "2fa83nzkhz",
     "backgroundColor": "#fff",
