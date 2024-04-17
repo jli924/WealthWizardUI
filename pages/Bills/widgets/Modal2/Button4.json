@@ -4,7 +4,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 22,
     "widgetName": "Button4",
-    "onClick": "{{remove_bills_brian.run().then(() => {\n  get_bills_brian.run();\n  closeModal('');\n});}}",
+    "onClick": "{{remove_bills_brian.run().then(() => {\n  get_bills_brian.run();\n});}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
     "displayName": "Button",
     "iconSVG": "/static/media/icon.05d209fafeb13a8569e3b4e97069d9ee.svg",
