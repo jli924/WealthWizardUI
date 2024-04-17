@@ -6,13 +6,13 @@
     "allowScroll": false,
     "iconSVG": "/static/media/icon.8eea39845729f7f4bfadeecd3810a09d.svg",
     "displayName": "Chart",
-    "topRow": 44,
+    "topRow": 10,
     "searchTags": [
         "graph",
         "visuals",
         "visualisations"
     ],
-    "bottomRow": 76,
+    "bottomRow": 56,
     "parentRowSpace": 10,
     "type": "CHART_WIDGET",
     "hideCard": false,
@@ -32,7 +32,7 @@
         {"key": "accentColor"},
         {"key": "fontFamily"}
     ],
-    "leftColumn": 0,
+    "leftColumn": 32,
     "customFusionChartConfig": {
         "type": "column2d",
         "dataSource": {
@@ -99,11 +99,11 @@
     "mobileTopRow": 44,
     "responsiveBehavior": "fill",
     "yAxisName": "Revenue($)",
-    "originalTopRow": 44,
-    "chartName": "Sales Report",
+    "originalTopRow": 10,
+    "chartName": "Investments",
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 0,
     "xAxisName": "Product Line",
-    "originalBottomRow": 76,
+    "originalBottomRow": 56,
     "chartType": "PIE_CHART"
 }
