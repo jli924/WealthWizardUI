@@ -16,7 +16,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "WealthWizards HomePage",
+    "pageId": "Transactions",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -53,9 +53,9 @@
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": [],
-    "createdAt": "2024-04-16T21:18:40Z"
+    "createdAt": "2024-04-17T02:43:52Z"
   },
-  "id": "WealthWizards HomePage_get_accounts_sally",
+  "id": "Transactions_get_accounts_sally",
   "deleted": false,
-  "gitSyncId": "661eddfa1f3ed209c78c1934_661eeb301f69e1358f8a6583"
+  "gitSyncId": "661f316185fa621fcf36ec09_661f376885fa621fcf36ec36"
 }

@@ -28,8 +28,18 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Transactions_get_transactions",
-              "name": "get_transactions",
+              "id": "Transactions_get_transactions_sally",
+              "name": "get_transactions_sally",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            }
+          ],
+          [
+            {
+              "id": "Transactions_get_accounts_sally",
+              "name": "get_accounts_sally",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [],
