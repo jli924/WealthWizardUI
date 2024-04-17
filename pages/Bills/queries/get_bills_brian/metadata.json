@@ -2,12 +2,12 @@
   "pluginType": "API",
   "pluginId": "restapi-plugin",
   "unpublishedAction": {
-    "name": "get_goals_sally_62",
+    "name": "get_bills_brian",
     "datasource": {
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
       "datasourceConfiguration": {
-        "url": "web:4000/g/goals/62"
+        "url": "web:4000/bi/bills/64"
       },
       "invalids": [],
       "messages": [],
@@ -16,7 +16,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Goals",
+    "pageId": "Bills",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -38,7 +38,7 @@
         "apiContentType": "none"
       }
     },
-    "executeOnLoad": false,
+    "executeOnLoad": true,
     "dynamicBindingPathList": [],
     "isValid": true,
     "invalids": [],
@@ -48,9 +48,9 @@
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": [],
-    "createdAt": "2024-04-17T02:57:46Z"
+    "createdAt": "2024-04-17T02:37:01Z"
   },
-  "id": "Goals_get_goals_sally_62",
+  "id": "Bills_get_bills_brian",
   "deleted": false,
-  "gitSyncId": "661eddfa1f3ed209c78c1934_661f3aaa26db1a76d5708139"
+  "gitSyncId": "661ee798f73f702a2a2d147b_661f35cd3cee1224670eee2f"
 }

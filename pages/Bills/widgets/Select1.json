@@ -11,7 +11,8 @@
     "leftColumn": 0,
     "dynamicBindingPathList": [
         {"key": "accentColor"},
-        {"key": "borderRadius"}
+        {"key": "borderRadius"},
+        {"key": "sourceData"}
     ],
     "placeholderText": "Select option",
     "isDisabled": false,
@@ -31,6 +32,7 @@
     "mobileBottomRow": 26,
     "widgetName": "Select1",
     "isFilterable": true,
+    "dynamicPropertyPathList": [{"key": "sourceData"}],
     "displayName": "Select",
     "searchTags": ["dropdown"],
     "bottomRow": 18,
@@ -40,33 +42,20 @@
     "parentColumnSpace": 17.9375,
     "dynamicTriggerPathList": [],
     "labelPosition": "Top",
-    "sourceData": [
-        {
-            "code": "BLUE",
-            "name": "Blue"
-        },
-        {
-            "code": "GREEN",
-            "name": "Green"
-        },
-        {
-            "code": "RED",
-            "name": "Red"
-        }
-    ],
+    "sourceData": "{{get_bills_brian.data}}",
     "key": "55f7w1vlq0",
     "labelTextSize": "0.875rem",
     "isDeprecated": false,
     "rightColumn": 16,
     "thumbnailSVG": "https://appcdn.appsmith.com/static/media/thumbnail.9aef24cb159e9c6e4d0f1d7ca4fb0c79.svg",
     "widgetId": "ikisqzj89j",
-    "optionValue": "code",
+    "optionValue": "Description",
     "minWidth": 450,
     "parentId": "0",
     "labelAlignment": "left",
     "renderMode": "CANVAS",
     "mobileTopRow": 19,
-    "optionLabel": "name",
+    "optionLabel": "Description",
     "responsiveBehavior": "fill",
     "originalTopRow": 10,
     "mobileLeftColumn": 0,
