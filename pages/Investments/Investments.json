@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 970,
+          "bottomRow": 760,
           "containerStyle": "none",
           "snapRows": 65,
           "parentRowSpace": 1,
@@ -28,13 +28,11 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Investments_get_investments_accountID",
-              "name": "get_investments_accountID",
+              "id": "Investments_get_investments_robert",
+              "name": "get_investments_robert",
               "confirmBeforeExecute": false,
               "pluginType": "API",
-              "jsonPathKeys": [
-                "appsmith.store.Account_id"
-              ],
+              "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             }
           ]

@@ -10,7 +10,7 @@
         "label"
     ],
     "topRow": 4,
-    "bottomRow": 8,
+    "bottomRow": 12,
     "type": "TEXT_WIDGET",
     "hideCard": false,
     "mobileRightColumn": 37,
@@ -27,7 +27,7 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "${{get_investments_accountID.data.map(row => row.Amount).toString()}}",
+    "text": "${{parseFloat(get_investments_robert.data[0].Amount) + parseFloat(get_investments_robert.data[1].Amount)}}\n\n\n\n",
     "key": "znu2x1v6qh",
     "isDeprecated": false,
     "rightColumn": 37,
@@ -49,11 +49,11 @@
     "isLoading": false,
     "mobileTopRow": 4,
     "responsiveBehavior": "fill",
-    "originalTopRow": 5,
+    "originalTopRow": 4,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 1,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 9,
+    "originalBottomRow": 8,
     "fontSize": "1.25rem",
     "minDynamicHeight": 4
 }

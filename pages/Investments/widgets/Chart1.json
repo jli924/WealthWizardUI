@@ -1,38 +1,25 @@
 {
     "needsErrorInfo": true,
     "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
-    "mobileBottomRow": 89,
+    "mobileBottomRow": 76,
     "widgetName": "Chart1",
     "allowScroll": false,
     "iconSVG": "/static/media/icon.8eea39845729f7f4bfadeecd3810a09d.svg",
     "displayName": "Chart",
-    "topRow": 60,
+    "topRow": 44,
     "searchTags": [
         "graph",
         "visuals",
         "visualisations"
     ],
-    "bottomRow": 97,
+    "bottomRow": 76,
     "parentRowSpace": 10,
     "type": "CHART_WIDGET",
     "hideCard": false,
-    "mobileRightColumn": 21,
-    "chartData": {"6k3pkp202x": {
-        "data": [
-            {
-                "x": "Product1",
-                "y": 20000
-            },
-            {
-                "x": "Product2",
-                "y": 22000
-            },
-            {
-                "x": "Product3",
-                "y": 32000
-            }
-        ],
-        "seriesName": ""
+    "mobileRightColumn": 16,
+    "chartData": {"zknq5gumku": {
+        "data": "[\n  {\n    \"x\": \"Stocks\",\n    \"y\": 1200\n  }, \n  {\n    \"x\": \"Bonds\",\n    \"y\": 20000\n  }\n]",
+        "seriesName": "2024"
     }},
     "animateLoading": true,
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
@@ -95,12 +82,12 @@
     },
     "customEChartConfig": "{{\n{\n  \"dataset\": {\n    \"source\": [\n      [\n        \"Day\",\n        \"Baidu\",\n        \"Google\",\n        \"Bing\"\n      ],\n      [\n        \"Mon\",\n        620,\n        120,\n        60\n      ],\n      [\n        \"Tue\",\n        732,\n        132,\n        72\n      ],\n      [\n        \"Wed\",\n        701,\n        101,\n        71\n      ],\n      [\n        \"Thu\",\n        734,\n        134,\n        74\n      ],\n      [\n        \"Fri\",\n        1090,\n        290,\n        190\n      ],\n      [\n        \"Sat\",\n        1130,\n        230,\n        130\n      ],\n      [\n        \"Sun\",\n        1120,\n        220,\n        110\n      ]\n    ]\n  },\n  \"tooltip\": {\n    \"trigger\": \"axis\",\n    \"axisPointer\": {\n      \"type\": \"shadow\"\n    }\n  },\n  \"title\": {\n    \"text\": \"Search Engine Usage\",\n    \"left\": \"center\",\n    \"textStyle\": {\n      \"width\": 200,\n      \"overflow\": \"truncate\"\n    }\n  },\n  \"legend\": {\n    \"top\": 40,\n    \"type\": \"scroll\"\n  },\n  \"grid\": {\n    \"left\": 15,\n    \"right\": 15,\n    \"bottom\": 30,\n    \"top\": 100,\n    \"containLabel\": true\n  },\n  \"xAxis\": [\n    {\n      \"type\": \"category\"\n    }\n  ],\n  \"yAxis\": [\n    {\n      \"type\": \"value\"\n    }\n  ],\n  \"series\": [\n    {\n      \"type\": \"bar\",\n      \"stack\": \"Search Engine\"\n    },\n    {\n      \"type\": \"bar\",\n      \"stack\": \"Search Engine\"\n    },\n    {\n      \"type\": \"bar\",\n      \"stack\": \"Search Engine\"\n    }\n  ]\n}\n}}",
     "flexVerticalAlignment": "start",
-    "showDataPointLabel": false,
-    "key": "3mcgu87ag2",
+    "showDataPointLabel": true,
+    "key": "3cmzdfbyw5",
     "isDeprecated": false,
     "rightColumn": 64,
     "accentColor": "{{appsmith.theme.colors.primaryColor}}",
-    "widgetId": "l36cgbs5y4",
+    "widgetId": "8yw4ukbvbe",
     "minWidth": 450,
     "isVisible": true,
     "version": 1,
@@ -109,14 +96,14 @@
     "labelOrientation": "auto",
     "isLoading": false,
     "renderMode": "CANVAS",
-    "mobileTopRow": 57,
+    "mobileTopRow": 44,
     "responsiveBehavior": "fill",
-    "yAxisName": "Amount ($)",
-    "originalTopRow": 60,
-    "chartName": "Investment Report",
+    "yAxisName": "Revenue($)",
+    "originalTopRow": 44,
+    "chartName": "Sales Report",
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 0,
-    "xAxisName": "Years",
-    "originalBottomRow": 97,
-    "chartType": "LINE_CHART"
+    "xAxisName": "Product Line",
+    "originalBottomRow": 76,
+    "chartType": "PIE_CHART"
 }
