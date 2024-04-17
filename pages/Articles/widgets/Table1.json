@@ -6,6 +6,7 @@
     "topRow": 106,
     "isSortable": true,
     "type": "TABLE_WIDGET_V2",
+    "topRowBeforeCollapse": 106,
     "inlineEditingSaveOption": "ROW_LEVEL",
     "animateLoading": true,
     "dynamicBindingPathList": [
@@ -25,8 +26,9 @@
     "defaultSelectedRowIndex": 0,
     "flexVerticalAlignment": "start",
     "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+    "bottomRowBeforeCollapse": 134,
     "isVisibleFilters": true,
-    "isVisible": true,
+    "isVisible": false,
     "enableClientSideSearch": true,
     "version": 2,
     "totalRecordsCount": 0,
