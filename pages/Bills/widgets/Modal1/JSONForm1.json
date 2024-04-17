@@ -1,6 +1,6 @@
 {
     "boxShadow": "none",
-    "borderColor": "#E0DEDE",
+    "borderColor": "white",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.7df6f087cceba86a9a5481b6c7f4871d.svg",
     "onSubmit": "{{new_bill_brian.run()}}",
     "topRow": 0,
@@ -129,7 +129,7 @@
     },
     "disabledWhenInvalid": true,
     "borderRadius": "0.375rem",
-    "originalBottomRow": 39,
+    "originalBottomRow": 56,
     "useSourceData": false,
     "schema": {"__root_schema__": {
         "labelTextSize": "0.875rem",

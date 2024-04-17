@@ -1,6 +1,6 @@
 {
     "boxShadow": "none",
-    "borderColor": "#E0DEDE",
+    "borderColor": "white",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.7df6f087cceba86a9a5481b6c7f4871d.svg",
     "onSubmit": "{{closeModal('Modal1Copy');}}",
     "topRow": 0,
