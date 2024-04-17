@@ -24,11 +24,12 @@
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
-        {"key": "borderRadius"}
+        {"key": "borderRadius"},
+        {"key": "text"}
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "$Remaining",
+    "text": "${{currentItem.Remaining}}",
     "key": "7ox4hafooe",
     "isDeprecated": false,
     "rightColumn": 56,
