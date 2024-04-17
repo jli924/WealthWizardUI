@@ -61,7 +61,7 @@
         }
     },
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "columnUpdatedAt": 1713321288761,
+    "columnUpdatedAt": 1713380603851,
     "originalBottomRow": 53,
     "defaultSelectedRowIndices": [0],
     "needsErrorInfo": false,
@@ -69,9 +69,9 @@
     "widgetName": "Table1",
     "defaultPageSize": 0,
     "columnOrder": [
+        "Description",
         "Amount",
         "Date",
-        "Description",
         "Transaction_id",
         "Account_id",
         "Category_id",
@@ -105,7 +105,7 @@
             "allowCellWrapping": false,
             "index": 0,
             "isDiscardVisible": true,
-            "isVisible": true,
+            "isVisible": false,
             "label": "Account_id",
             "fontStyle": "",
             "textColor": "",
@@ -157,7 +157,7 @@
             "verticalAlignment": "CENTER"
         },
         "Amount": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"Amount\"]))}}",
+            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( '$' + currentRow[\"Amount\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "Amount",
@@ -191,7 +191,7 @@
             "verticalAlignment": "CENTER"
         },
         "Goal_id": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"Goal_id\"]))}}",
+            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( Goal_id))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "Goal_id",
@@ -207,7 +207,7 @@
             "allowCellWrapping": false,
             "index": 5,
             "isDiscardVisible": true,
-            "isVisible": true,
+            "isVisible": false,
             "label": "Goal_id",
             "fontStyle": "",
             "textColor": "",
@@ -275,7 +275,7 @@
             "allowCellWrapping": false,
             "index": 2,
             "isDiscardVisible": true,
-            "isVisible": true,
+            "isVisible": false,
             "label": "Category_id",
             "fontStyle": "",
             "textColor": "",
@@ -309,7 +309,7 @@
             "allowCellWrapping": false,
             "index": 3,
             "isDiscardVisible": true,
-            "isVisible": true,
+            "isVisible": false,
             "label": "Transaction_id",
             "fontStyle": "",
             "textColor": "",
