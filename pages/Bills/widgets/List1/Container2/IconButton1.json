@@ -10,8 +10,8 @@
         "click",
         "submit"
     ],
-    "topRow": 1,
-    "bottomRow": 8,
+    "topRow": 2,
+    "bottomRow": 9,
     "parentRowSpace": 10,
     "type": "ICON_BUTTON_WIDGET",
     "hideCard": false,
