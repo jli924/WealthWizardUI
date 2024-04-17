@@ -26,7 +26,7 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "Balance:",
+    "text": "Account Balance:",
     "key": "znu2x1v6qh",
     "isDeprecated": false,
     "rightColumn": 35,
