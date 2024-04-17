@@ -12,8 +12,8 @@
         "parent",
         "group"
     ],
-    "topRow": 62,
-    "bottomRow": 78,
+    "topRow": 65,
+    "bottomRow": 81,
     "parentRowSpace": 10,
     "type": "CONTAINER_WIDGET",
     "hideCard": false,
@@ -86,10 +86,10 @@
     "isLoading": false,
     "mobileTopRow": 57,
     "responsiveBehavior": "fill",
-    "originalTopRow": 62,
+    "originalTopRow": 65,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 0,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 78,
+    "originalBottomRow": 81,
     "minDynamicHeight": 10
 }

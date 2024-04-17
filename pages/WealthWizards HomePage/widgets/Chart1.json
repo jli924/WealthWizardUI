@@ -2,7 +2,7 @@
     "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
     "allowScroll": false,
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.07abfb45c3867c2e1b1d5d4818b7078c.svg",
-    "topRow": 55,
+    "topRow": 58,
     "type": "CHART_WIDGET",
     "chartData": {"vmsgrrzi1x": {
         "data": [
@@ -41,7 +41,7 @@
     "chartName": "Spending by Category",
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "xAxisName": "Product Line",
-    "originalBottomRow": 91,
+    "originalBottomRow": 94,
     "needsErrorInfo": true,
     "mobileBottomRow": 132,
     "widgetName": "Chart1",
@@ -51,7 +51,7 @@
         "visuals",
         "visualisations"
     ],
-    "bottomRow": 91,
+    "bottomRow": 94,
     "parentRowSpace": 10,
     "hideCard": false,
     "mobileRightColumn": 43,
@@ -117,7 +117,7 @@
     "mobileTopRow": 100,
     "responsiveBehavior": "fill",
     "yAxisName": "Revenue($)",
-    "originalTopRow": 55,
+    "originalTopRow": 58,
     "mobileLeftColumn": 19,
     "chartType": "PIE_CHART"
 }

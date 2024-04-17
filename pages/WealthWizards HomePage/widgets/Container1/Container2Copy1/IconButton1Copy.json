@@ -3,7 +3,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 6,
     "widgetName": "IconButton1Copy",
-    "onClick": "{{navigateTo('Bills', {}, 'SAME_WINDOW');}}",
+    "onClick": "{{navigateTo('Bills', {}, 'SAME_WINDOW');\nstoreValue('Account_id', '64');}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
     "displayName": "Icon button",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.bb5d55ae67fb1687dff78e66ad1faec0.svg",
