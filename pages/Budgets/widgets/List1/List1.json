@@ -89,7 +89,7 @@
     "currentItemsView": "{{[]}}",
     "triggeredItemView": "{{{}}}",
     "widgetName": "List1",
-    "listData": "{{get_budgets.data}}",
+    "listData": "{{get_budgets_robert.data}}",
     "displayName": "List",
     "bottomRow": 50,
     "parentRowSpace": 10,
