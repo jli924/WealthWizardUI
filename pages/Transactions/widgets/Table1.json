@@ -334,7 +334,7 @@
     "textSize": "0.875rem",
     "widgetId": "psa8vfhaun",
     "minWidth": 450,
-    "tableData": "{{get_transactions_sally.data}}",
+    "tableData": "{{get_transactions_accountID.data}}",
     "label": "Data",
     "searchKey": "",
     "parentId": "0",

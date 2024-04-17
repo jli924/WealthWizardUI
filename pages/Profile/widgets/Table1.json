@@ -226,7 +226,7 @@
     "textSize": "0.875rem",
     "widgetId": "ezrqejh8vr",
     "minWidth": 450,
-    "tableData": "{{get_accounts.data}}",
+    "tableData": "{{get_accounts_accountID.data}}",
     "label": "Data",
     "searchKey": "",
     "parentId": "0",

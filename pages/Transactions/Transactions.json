@@ -28,21 +28,25 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Transactions_get_transactions_sally",
-              "name": "get_transactions_sally",
+              "id": "Transactions_get_transactions_accountID",
+              "name": "get_transactions_accountID",
               "confirmBeforeExecute": false,
               "pluginType": "API",
-              "jsonPathKeys": [],
+              "jsonPathKeys": [
+                "appsmith.store.Account_id"
+              ],
               "timeoutInMillisecond": 10000
             }
           ],
           [
             {
-              "id": "Transactions_get_accounts_sally",
-              "name": "get_accounts_sally",
+              "id": "Transactions_get_accounts_accountID",
+              "name": "get_accounts_accountID",
               "confirmBeforeExecute": false,
               "pluginType": "API",
-              "jsonPathKeys": [],
+              "jsonPathKeys": [
+                "appsmith.store.Account_id"
+              ],
               "timeoutInMillisecond": 10000
             }
           ]

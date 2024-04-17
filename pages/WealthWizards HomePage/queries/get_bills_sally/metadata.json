@@ -7,7 +7,7 @@
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
       "datasourceConfiguration": {
-        "url": "web:4000/bi/bills/61"
+        "url": "web:4000/bi/bills/63"
       },
       "invalids": [],
       "messages": [],
