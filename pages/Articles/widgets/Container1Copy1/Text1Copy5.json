@@ -1,7 +1,7 @@
 {
     "needsErrorInfo": false,
     "mobileBottomRow": 4,
-    "widgetName": "Text1",
+    "widgetName": "Text1Copy5",
     "displayName": "Text",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.a55b701a2ae86aa2c6718ecb7b4083f0.svg",
     "searchTags": [
@@ -29,20 +29,20 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "Title: {{get_articles_emily.data.map(row => row.Title).toString()}}",
+    "text": "Title: {{get_articles_emily_2.data.map(row => row.Title).toString()}}",
     "key": "ali73n73vf",
     "isDeprecated": false,
     "rightColumn": 31,
     "thumbnailSVG": "https://appcdn.appsmith.com/static/media/thumbnail.0c129b82c9b3e4cd4920563b289659ab.svg",
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
-    "widgetId": "0rt2nyuai4",
+    "widgetId": "tu4bgdtjpc",
     "minWidth": 450,
     "isVisible": true,
     "fontStyle": "BOLD",
     "textColor": "#3f3f46",
     "version": 1,
-    "parentId": "yqn2xi4q1v",
+    "parentId": "j0wyf5djig",
     "tags": [
         "Suggested",
         "Content"
