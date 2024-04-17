@@ -17,15 +17,16 @@
     "mobileRightColumn": 59,
     "parentColumnSpace": 8.8115234375,
     "dynamicTriggerPathList": [],
-    "leftColumn": 31,
+    "leftColumn": 36,
     "dynamicBindingPathList": [
         {"key": "fillColor"},
-        {"key": "borderRadius"}
+        {"key": "borderRadius"},
+        {"key": "progress"}
     ],
     "key": "7j5ciwao8g",
     "showResult": true,
     "isDeprecated": false,
-    "rightColumn": 59,
+    "rightColumn": 61,
     "counterClosewise": false,
     "thumbnailSVG": "https://appcdn.appsmith.com/static/media/thumbnail.b99132f26b7fae778b21ebedf9748338.svg",
     "dynamicHeight": "FIXED",
@@ -41,5 +42,5 @@
     "responsiveBehavior": "fill",
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 31,
-    "progress": "50"
+    "progress": "{{Math.floor((get_goals_sally_61.data.map(row => row.SavedSoFar) / get_goals_sally_61.data.map(row => row.TotalFund)) * 100)}}"
 }

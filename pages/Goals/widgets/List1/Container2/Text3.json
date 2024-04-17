@@ -22,12 +22,13 @@
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
-        {"key": "borderRadius"}
+        {"key": "borderRadius"},
+        {"key": "text"}
     ],
     "leftColumn": 16,
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "amount",
+    "text": "${{get_goals_sally_61.data.map(row => row.TotalFund).toString()}}",
     "key": "oiytaqnfsu",
     "isDeprecated": false,
     "rightColumn": 24,
