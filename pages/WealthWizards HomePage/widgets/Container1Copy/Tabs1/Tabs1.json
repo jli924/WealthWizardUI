@@ -87,7 +87,7 @@
     "rightColumn": 64,
     "thumbnailSVG": "https://appcdn.appsmith.com/static/media/thumbnail.902d280515fd575657e8ccf99545112b.svg",
     "widgetId": "rbt1a31co3",
-    "defaultTab": "Groceries",
+    "defaultTab": "",
     "minWidth": 450,
     "tabsObj": {"tab1": {
         "widgetId": "07q65we88z",
