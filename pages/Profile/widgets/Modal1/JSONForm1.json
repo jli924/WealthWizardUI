@@ -2,7 +2,7 @@
     "boxShadow": "none",
     "borderColor": "#ffffff",
     "iconSVG": "/static/media/icon.46adf7030d667f0ad9002aa31f997573.svg",
-    "onSubmit": "{{account_put.run().then(() => {\n  get_accounts_accountID.run();\n});}}",
+    "onSubmit": "{{account_post.run().then(() => {\n  get_accounts_accountID.run();\n});}}",
     "topRow": 0,
     "type": "JSON_FORM_WIDGET",
     "animateLoading": true,
