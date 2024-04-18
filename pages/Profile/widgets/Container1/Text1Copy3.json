@@ -29,7 +29,7 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "Phone: {{get_accounts_accountID.data.length > 0 ? get_accounts_accountID.data[0].Phone : ''}}",
+    "text": "Phone: {{get_accounts_userID.data.length > 0 ? get_accounts_userID.data[0].Phone : ''}}",
     "key": "ali73n73vf",
     "isDeprecated": false,
     "rightColumn": 53,

@@ -2,7 +2,7 @@
   "pluginType": "API",
   "pluginId": "restapi-plugin",
   "unpublishedAction": {
-    "name": "get_accounts_accountID",
+    "name": "get_accounts_userID",
     "datasource": {
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
@@ -62,7 +62,7 @@
     "userPermissions": [],
     "createdAt": "2024-04-17T02:49:32Z"
   },
-  "id": "Profile_get_accounts_accountID",
+  "id": "Profile_get_accounts_userID",
   "deleted": false,
   "gitSyncId": "661f386a3f64ac30c0ffae7d_661f38bc3f64ac30c0ffaea2"
 }

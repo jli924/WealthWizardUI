@@ -29,7 +29,7 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "Email: {{get_accounts_accountID.data.length > 0 ? get_accounts_accountID.data[0].Email : ''}}",
+    "text": "Email: {{get_accounts_userID.data.length > 0 ? get_accounts_userID.data[0].Email : ''}}",
     "key": "ali73n73vf",
     "isDeprecated": false,
     "rightColumn": 46,

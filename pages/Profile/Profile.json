@@ -38,8 +38,8 @@
           ],
           [
             {
-              "id": "Profile_get_accounts_accountID",
-              "name": "get_accounts_accountID",
+              "id": "Profile_get_accounts_userID",
+              "name": "get_accounts_userID",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [
