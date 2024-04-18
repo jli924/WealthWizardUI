@@ -12,8 +12,8 @@
         {"key": "accentColor"},
         {"key": "borderRadius"},
         {"key": "boxShadow"},
-        {"key": "tableData"},
-        {"key": "primaryColumns.Account_id.computedValue"}
+        {"key": "primaryColumns.Account_id.computedValue"},
+        {"key": "tableData"}
     ],
     "needsHeightForContent": true,
     "leftColumn": 4,

@@ -2,7 +2,7 @@
     "boxShadow": "none",
     "borderColor": "#ffffff",
     "iconSVG": "/static/media/icon.46adf7030d667f0ad9002aa31f997573.svg",
-    "onSubmit": "{{account_post.run().then(() => {\n  get_max_accountid.run();\n  accInfo_post.run();\n  get_accounts_userID.run();\n});}}",
+    "onSubmit": "{{account_post.run().then(() => {\n  get_max_accountid.run();\n  accInfo_post.run().then(get_accounts_userID.run());\n});}}",
     "topRow": 0,
     "type": "JSON_FORM_WIDGET",
     "animateLoading": true,
@@ -137,7 +137,7 @@
     },
     "disabledWhenInvalid": true,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "originalBottomRow": 78,
+    "originalBottomRow": 34,
     "useSourceData": false,
     "schema": {"__root_schema__": {
         "labelTextSize": "0.875rem",
