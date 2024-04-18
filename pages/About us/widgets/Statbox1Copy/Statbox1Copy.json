@@ -8,8 +8,8 @@
     "displayName": "Stats Box",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.457e4e1b6b350401fe7e9adf74ba03ae.svg",
     "searchTags": ["statbox"],
-    "topRow": 10,
-    "bottomRow": 24,
+    "topRow": 23,
+    "bottomRow": 37,
     "parentRowSpace": 10,
     "type": "STATBOX_WIDGET",
     "hideCard": false,
@@ -80,10 +80,10 @@
     "isLoading": false,
     "mobileTopRow": 48,
     "responsiveBehavior": "fill",
-    "originalTopRow": 10,
+    "originalTopRow": 23,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 0,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 24,
+    "originalBottomRow": 37,
     "minDynamicHeight": 14
 }
