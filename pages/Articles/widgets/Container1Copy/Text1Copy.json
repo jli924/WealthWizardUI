@@ -20,7 +20,7 @@
     "fontFamily": "Nunito Sans",
     "parentColumnSpace": 17.625,
     "dynamicTriggerPathList": [],
-    "leftColumn": 5,
+    "leftColumn": 4,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "borderRadius"},
@@ -31,7 +31,7 @@
     "text": "Your articles\n",
     "key": "znu2x1v6qh",
     "isDeprecated": false,
-    "rightColumn": 21,
+    "rightColumn": 20,
     "thumbnailSVG": "https://appcdn.appsmith.com/static/media/thumbnail.0c129b82c9b3e4cd4920563b289659ab.svg",
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
