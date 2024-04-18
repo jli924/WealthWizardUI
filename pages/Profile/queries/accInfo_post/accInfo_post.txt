@@ -1,1 +1,1 @@
-{{JSONForm1.formData}}
+{{Table2.selectedRow}}
