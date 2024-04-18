@@ -20,7 +20,7 @@
     "fontFamily": "Nunito Sans",
     "parentColumnSpace": 17.625,
     "dynamicTriggerPathList": [],
-    "leftColumn": 1,
+    "leftColumn": 5,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "borderRadius"},
@@ -31,7 +31,7 @@
     "text": "Your transactions",
     "key": "znu2x1v6qh",
     "isDeprecated": false,
-    "rightColumn": 43,
+    "rightColumn": 47,
     "thumbnailSVG": "https://appcdn.appsmith.com/static/media/thumbnail.0c129b82c9b3e4cd4920563b289659ab.svg",
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
