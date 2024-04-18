@@ -12,7 +12,7 @@
         "visuals",
         "visualisations"
     ],
-    "bottomRow": 56,
+    "bottomRow": 62,
     "parentRowSpace": 10,
     "type": "CHART_WIDGET",
     "hideCard": false,
@@ -104,6 +104,6 @@
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 0,
     "xAxisName": "Product Line",
-    "originalBottomRow": 56,
+    "originalBottomRow": 62,
     "chartType": "PIE_CHART"
 }
