@@ -28,6 +28,18 @@
         "layoutOnLoadActions": [
           [
             {
+              "id": "Investments_get_investments_accountID",
+              "name": "get_investments_accountID",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [
+                "appsmith.store.Account_id"
+              ],
+              "timeoutInMillisecond": 10000
+            }
+          ],
+          [
+            {
               "id": "Investments_get_investments_robert",
               "name": "get_investments_robert",
               "confirmBeforeExecute": false,

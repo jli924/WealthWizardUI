@@ -280,7 +280,7 @@
     "textSize": "0.875rem",
     "widgetId": "455icfttxt",
     "minWidth": 450,
-    "tableData": "{{get_investments_robert.data}}",
+    "tableData": "{{get_investments_accountID.data}}",
     "label": "Data",
     "searchKey": "",
     "parentId": "0",
