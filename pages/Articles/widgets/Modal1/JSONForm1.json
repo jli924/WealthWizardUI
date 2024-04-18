@@ -1,6 +1,6 @@
 {
     "boxShadow": "none",
-    "borderColor": "#E0DEDE",
+    "borderColor": "white",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.7df6f087cceba86a9a5481b6c7f4871d.svg",
     "onSubmit": "{{closeModal('Modal1');\ncreate_article.run().then(() => {\n  get_articles_userID.run();\n});}}",
     "topRow": 0,

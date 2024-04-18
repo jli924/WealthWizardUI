@@ -59,7 +59,7 @@
         }
     },
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "columnUpdatedAt": 1713394634214,
+    "columnUpdatedAt": 1713407880871,
     "originalBottomRow": 74,
     "defaultSelectedRowIndices": [0],
     "needsErrorInfo": false,
@@ -101,7 +101,7 @@
             "allowCellWrapping": false,
             "index": 2,
             "isDiscardVisible": true,
-            "isVisible": true,
+            "isVisible": false,
             "label": "Budget",
             "columnType": "number",
             "thousandSeparator": true,
