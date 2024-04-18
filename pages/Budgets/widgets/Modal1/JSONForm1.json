@@ -273,7 +273,7 @@
                 "defaultValue": "",
                 "accentColor": "{{((sourceData, formData, fieldState) => ((appsmith.theme.colors.primaryColor)))(JSONForm1.sourceData, JSONForm1.formData, JSONForm1.fieldState)}}",
                 "dataType": "string",
-                "accessor": "customField1",
+                "accessor": "Category",
                 "isVisible": true,
                 "label": "Category",
                 "serverSideFiltering": false,
