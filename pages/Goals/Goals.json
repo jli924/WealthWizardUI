@@ -36,6 +36,16 @@
                 "appsmith.store.Account_id"
               ],
               "timeoutInMillisecond": 10000
+            },
+            {
+              "id": "Goals_get_goals_accountid_transac",
+              "name": "get_goals_accountid_transac",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [
+                "appsmith.store.Account_id"
+              ],
+              "timeoutInMillisecond": 10000
             }
           ]
         ],

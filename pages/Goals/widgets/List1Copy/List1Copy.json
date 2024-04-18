@@ -89,7 +89,7 @@
     "currentItemsView": "{{[]}}",
     "triggeredItemView": "{{{}}}",
     "widgetName": "List1Copy",
-    "listData": "{{get_goals_accountid.data}}",
+    "listData": "{{get_goals_accountid_transac.data}}",
     "displayName": "List",
     "bottomRow": 88,
     "parentRowSpace": 10,
