@@ -96,7 +96,7 @@
     "hideCard": false,
     "mobileRightColumn": 17,
     "mainContainerId": "tjfupvd3kt",
-    "primaryKeys": "{{List1Copy.listData.map((currentItem, currentIndex) => currentItem[\"id\"] )}}",
+    "primaryKeys": "{{List1Copy.listData.map((currentItem, currentIndex) => currentItem[\"Transaction_id\"] )}}",
     "parentColumnSpace": 17.9375,
     "dynamicTriggerPathList": [],
     "gridType": "vertical",
