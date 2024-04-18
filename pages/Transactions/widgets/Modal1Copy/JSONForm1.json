@@ -250,7 +250,7 @@
                 "originalIdentifier": "Category_id",
                 "borderRadius": "0px",
                 "children": {},
-                "options": "[\n  {\n    \"label\": \"Blue\",\n    \"value\": \"BLUE\"\n  },\n  {\n    \"label\": \"Green\",\n    \"value\": \"GREEN\"\n  },\n  {\n    \"label\": \"Red\",\n    \"value\": \"RED\"\n  }\n]",
+                "options": "[\n  {\n    \"label\": \"Groceries\",\n    \"value\": 1\n  },\n  {\n    \"label\": \"Utilities\",\n    \"value\": 2\n  },\n  {\n    \"label\": \"Rent\",\n    \"value\": 3\n  },\n  {\n    \"label\": \"Entertainment\",\n    \"value\": 4\n  },\n  {\n    \"label\": \"Transportation\",\n    \"value\": 5\n  },\n  {\n    \"label\": \"Healthcare\",\n    \"value\": 6\n  },\n  {\n    \"label\": \"Shopping\",\n    \"value\": 7\n  },\n  {\n    \"label\": \"Education\",\n    \"value\": 8\n  },\n  {\n    \"label\": \"Charity\",\n    \"value\": 9\n  },\n  {\n    \"label\": \"Home improvement\",\n    \"value\": 10\n  },\n  {\n    \"label\": \"Electronics\",\n    \"value\": 11\n  },\n  {\n    \"label\": \"Pet Supplies\",\n    \"value\": 12\n  },\n  {\n    \"label\": \"Clothing\",\n    \"value\": 13\n  },\n  {\n    \"label\": \"Books and Media\",\n    \"value\": 14\n  }\n]\n",
                 "position": 3,
                 "isDisabled": false,
                 "sourceData": 7,
